@@ -34,4 +34,4 @@ steps:
     failTaskOnFailedTests: true
     searchFolder: '$(System.DefaultWorkingDirectory)'
 
-- script: echo "Regression test is successfully completed.”
+- script: echo "Regression test is successfully completed."
